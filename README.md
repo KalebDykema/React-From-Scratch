@@ -18,4 +18,4 @@ You will also see any lint errors in the console.
 
 ### `npm run build`
 
-Builds the app to the `build` folder.
+Builds the app to the `public` folder.
